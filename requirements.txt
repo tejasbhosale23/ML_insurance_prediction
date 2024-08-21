@@ -2,6 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
+scikit-learn
+logger 
 
 -e .
 
