@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+
+-e .
+
+# '-e .' : when working on a project and want to include the 
+#    project itself in the installation process, ensuring that 
+#    changes to the project code are immediately applied.
+
+    
