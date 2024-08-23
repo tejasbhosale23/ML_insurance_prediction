@@ -4,7 +4,9 @@ seaborn
 matplotlib
 scikit-learn
 logger 
-
+xgboost
+flask
+dill
 -e .
 
 # '-e .' : when working on a project and want to include the 
